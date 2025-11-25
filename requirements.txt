@@ -142,7 +142,6 @@ textblob==0.18.0.post0
 threadpoolctl==3.5.0
 tokenizers==0.21.0
 toml==0.10.2
-torch==2.2.2
 tornado==6.5.2
 tqdm==4.67.1
 transformers==4.48.2
